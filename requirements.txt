@@ -1,0 +1,4 @@
+streamlit>=1.40
+Transformers>=4.40,<5
+torch>=2.1
+pypdf>=4.0
